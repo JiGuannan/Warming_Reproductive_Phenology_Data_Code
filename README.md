@@ -1,4 +1,4 @@
-# Warming_Reproductive_Phenology_Data-Code
+# Warming_Reproductive_Phenology_Data_Code
 
 This repository contains the R code and data used to analyze the effects of climate warming on flowering phenology, fruiting phenology, and reproductive season length (RSL) in woody plants.
 
